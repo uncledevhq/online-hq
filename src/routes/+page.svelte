@@ -52,7 +52,7 @@
   <section>
     <h3>Articles & Insights</h3>
     <p>Read my latest thoughts on DevSecOps practices, JavaScript tricks, and AI trends.</p>
-    <p><a href="your-articles-link">Read Articles</a></p>
+    <p><a href="https://medium.com/@uncledev">Read Articles</a></p>
   </section>
 
   <section>
@@ -68,9 +68,9 @@
     <h3>Let's Connect</h3>
     <p>I’m always open to discussing new projects, creative ideas, or opportunities to be a part of your vision. Feel free to reach out!</p>
     <p>
-      <a href="your-linkedin-link">LinkedIn</a> |
-      <a href="your-github-link">GitHub</a> |
-      <a href="your-twitter-link">Twitter</a>
+      <a href="https://www.linkedin.com/in/uncledevhq/" target="_blank">LinkedIn</a> |
+      <a href="https://github.com/uncledevhq" target="_blank">GitHub</a> |
+      <a href="https://x.com/uncledevhq" target="_blank" >Twitter</a>
     </p>
   </section>
 
