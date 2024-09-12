@@ -1,3 +1,9 @@
+<script>
+
+  // get current year
+  const currentYear = new Date().getFullYear();
+
+</script>
 <!-- New content starts here -->
 <h2>UncleDevHQ</h2>
 
@@ -75,7 +81,7 @@
   </section>
 
   <footer>
-    <p>Crafted with Svelte and Bun by UncleDev. All rights reserved.</p>
+    <p>Crafted with Svelte and Bun by UncleDev. All rights reserved. &copy;{currentYear} </p>
   </footer>
 </section>
 <!-- New content ends here -->
